@@ -142,5 +142,4 @@ The left panel allows filtering by:
 
 ## 📬 Contact
 
-Made by **[Atharva Yashwant Gadhave](https://yashsawant.dev/)**  
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/yourprofile) or raise issues on GitHub.
+Made by **[Yash Ajay Sawant](https://yashsawant.dev/)**
